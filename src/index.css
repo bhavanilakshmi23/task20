@@ -1,0 +1,56 @@
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.ml-5{
+  margin-left: 3 rem !important;
+}
+
+input[readonly]{
+  background-color:transparent;
+  border: 0;
+  font-size: 1em;
+}
+
+.side-navigation a{
+  font-size: 14px;
+  color: #212529;
+}
+
+.side-navigation a:hover{
+  background:cyan;
+}
+
+.horizontal-line{
+  background: #d9d9d9;
+  padding-top: 1.5px;
+  padding-bottom: 1px;
+}
+
+.search-tb-font td, .search-tb-font th{
+  font-size: 13px;
+}
+
+.s-add-item{
+  cursor: pointer;
+}
+
+.sm-tb-font td, .sm-tb-font th{
+  font-size: 14px;
+}
+
+.dash-summary-cell{
+  border: 1px solid ;
+  padding: 8px 10px;
+  background-color:cyan;
+
+}
+
+body{
+  background: azure;
+}
+.navbar{
+  background-color:cyan;
+ text-decoration:none;
+}
