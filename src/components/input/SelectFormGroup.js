@@ -8,7 +8,7 @@ class SelectFormGroup extends Component{
     }
 
     renderLabel(){
-        if(this.props.label == "" || this.props.label == null){
+        if(this.props.label === "" || this.props.label === null){
             return ""
         }
         else{
